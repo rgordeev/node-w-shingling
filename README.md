@@ -1,6 +1,12 @@
-type in your console 
+type in your console <br>
+  ```
   git clone https://github.com/aslikeyou/node-w-shingling.git
-then write 
+  ```
+then write <br>
+  ```
   npm install
-then 
+  ```
+then <br>
+  ```
   node test.js
+  ```
