@@ -1,0 +1,7 @@
+{
+  "name": "node-shingling",
+  "version": "0.1.0",
+  "description": "a simple near duplicate detection by Shingling method",
+  "dependencies": {
+  }
+}
